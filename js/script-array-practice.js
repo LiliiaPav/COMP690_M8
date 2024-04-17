@@ -212,9 +212,9 @@
 
 //STEP 17
 //Write a JavaScript function to get the largest number from a numeric array.
-function largestElement(arrayToWork){
-    let sortedArr= arrayToWork.sort();
-    return sortedArr[0];
-}
+// function largestElement(arrayToWork){
+//     let sortedArr= arrayToWork.sort();
+//     return sortedArr[0];
+// }
 
-console.log(largestElement([77, 88, 75, 17, 95, 85, 99, 100, 60, 68]));
+// console.log(largestElement([77, 88, 75, 17, 95, 85, 99, 100, 60, 68]));
